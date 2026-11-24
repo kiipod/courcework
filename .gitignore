@@ -1,0 +1,20 @@
+# Локальные настройки редакторов
+/.idea/
+/.vscode/
+
+# Служебные файлы операционной системы
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Временные файлы Word, LibreOffice и редакторов
+~$*
+.~lock.*#
+*.tmp
+*.swp
+*.swo
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
