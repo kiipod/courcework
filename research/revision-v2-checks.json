@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-28",
+  "branch": "plan/06-01-student-revision",
+  "document": "output/coursework-v2.docx",
+  "sha256": "32fed8d31e6cd9ebcd7561858ff7ff73088a2eed5acf0ac195b40bd6ea1f549c",
+  "preserved_files_sha256": {
+    "chapters/00-introduction.md": "4363f991594b222e16d1ce77f89177156c469aa263273b38dfe307c8b9af866f",
+    "chapters/abstract.md": "e1300dda7f228d5cf902f4d4521d4d89e3515765ba01c72edf8288e7c235ed64",
+    "chapters/01-theoretical.md": "abe05e749a7b1cc6516511b7e52cf2d5a1a1ad0655a5e17a313b0c96788aec9f",
+    "chapters/title-page.md": "fd3bf17e4346ebab5cedd307cdae81d0ae60024f3c30ea8ced1c473c6d4b429c",
+    "chapters/glossary.md": "7a6f8d15d497fe5ae078fea0127701151c05732e0e10c226a704ad5ed011dc88",
+    "chapters/02-empirical.md": "1a4922fb62c28a95aa1c4c26967abc6d8cc0a4b91c07f6f5976cd6e038ab56f9",
+    "chapters/04-bibliography.md": "c85a8ee8c2fd97c89bd74c01be2b91bd29564d2fa816158233614a251cf6f2e5",
+    "chapters/03-conclusion.md": "b9f1d722c6bb184730da428e350a52bdd206178ca85a5013c25ff721c1fd8be8",
+    "appendices/README.md": "8b024b534595573f9ebb5553ffbc0b3e0643d420de98c0122854b075fb44ea63",
+    "appendices/01-comparison.md": "8d648b50631e70cbebefeb87a551992ed5d03d4c5bc7671cfebd606f556384d2",
+    "output/coursework.docx": "79d6c6f68533cda60b4894eaeabde0818182be9c0db993f3d54c6483dc7bc79d",
+    "research/comparison.xlsx": "f53c49a6c69c848e49aff0277a74dc664e6e77f45f51904e90793a5349ead0b5",
+    "scripts/build_coursework.py": "e793e7cb6c4c264a55587b79e5eeb804962f3f8bf5ba8692bd4ce873638098d6"
+  },
+  "preserved_files_verified_unchanged": true,
+  "source_files_sha256": {
+    "chapters/v2/abstract.md": "82212321adbeba0559b5c45c9fd67f7101715d119b1e6abc242293858467eeae",
+    "chapters/v2/glossary.md": "54c05c250cdf248f7cd1ef34c0fb3bfb8efa4c76d51915c32a582eed40321cd3",
+    "chapters/v2/00-introduction.md": "58ab19b606e4023a20c5be8286de4c505c670b64d51e83c3d00683a464a40627",
+    "chapters/v2/01-theoretical.md": "25ce6db6e1596a28222be9dbcebf0beb7eec10593eec4e4b496dac665310aba6",
+    "chapters/v2/02-empirical.md": "1cccde9ee1a0d12af1765bb898102d15394072631618c92d7371b0bf2aedd8e4",
+    "chapters/v2/03-conclusion.md": "f8743e60721cc64fc3ed76df032fe45fbb85300b86aa2d7338a843fba514ecd9",
+    "chapters/v2/04-bibliography.md": "c85a8ee8c2fd97c89bd74c01be2b91bd29564d2fa816158233614a251cf6f2e5",
+    "appendices/v2/01-comparison.md": "d5ea7dbc4cdaf543e6f2c6a1495a482108badbaaf811ad8ede784a257e7031b8",
+    "appendices/v2/02-interpretation.md": "67b29a4068bd2e0946ca7d435ed515edf847ed8c2ef097e2bb89eab8d72ead8b",
+    "chapters/v2/title-page.md": "fd3bf17e4346ebab5cedd307cdae81d0ae60024f3c30ea8ced1c473c6d4b429c",
+    "scripts/build_coursework_v2.py": "5a9d1f2886e31ee38b7f5e2b9786b189ab3b436ed5ae8eb6dd4476b109ad7bbc"
+  },
+  "all_source_paragraphs_and_table_cells_present_in_order": 211,
+  "docx_zip_and_xml_valid": true,
+  "annotation_characters": 933,
+  "word_verification": {
+    "pages": 36,
+    "word": "16.0",
+    "toc": "Аннотация\t3\rГлоссарий\t4\rВведение\t5\rГлава 1. Гендерная идентичность как психологическая проблема\t8\r1.1. Понятие гендерной идентичности и развитие представлений о ней\t8\r1.2. Социальные условия и личный смысл гендерной идентичности\t11\r1.3. Самоопределение, профиль черт и способы их изучения\t14\rВыводы по главе\t17\rГлава 2. Содержательный анализ исследований гендерной идентичности\t18\r2.1. Характеристика материала и логика исследования\t18\r2.2. Психологический смысл результатов четырёх исследовательских серий\t20\r2.3. Общий вывод исследования и его практическое значение\t25\rВыводы по главе\t28\rЗаключение\t29\rСписок использованных источников\t32\rПриложение 1. Извлечение и сопоставление опубликованных результатов\t34\rПриложение 2. Основания содержательного сопоставления\t36\r",
+    "headings": [
+      {
+        "text": "Аннотация",
+        "page": 3
+      },
+      {
+        "text": "Глоссарий",
+        "page": 4
+      },
+      {
+        "text": "Введение",
+        "page": 5
+      },
+      {
+        "text": "Глава 1. Гендерная идентичность как психологическая проблема",
+        "page": 8
+      },
+      {
+        "text": "1.1. Понятие гендерной идентичности и развитие представлений о ней",
+        "page": 8
+      },
+      {
+        "text": "1.2. Социальные условия и личный смысл гендерной идентичности",
+        "page": 11
+      },
+      {
+        "text": "1.3. Самоопределение, профиль черт и способы их изучения",
+        "page": 14
+      },
+      {
+        "text": "Выводы по главе",
+        "page": 17
+      },
+      {
+        "text": "Глава 2. Содержательный анализ исследований гендерной идентичности",
+        "page": 18
+      },
+      {
+        "text": "2.1. Характеристика материала и логика исследования",
+        "page": 18
+      },
+      {
+        "text": "2.2. Психологический смысл результатов четырёх исследовательских серий",
+        "page": 20
+      },
+      {
+        "text": "2.3. Общий вывод исследования и его практическое значение",
+        "page": 25
+      },
+      {
+        "text": "Выводы по главе",
+        "page": 28
+      },
+      {
+        "text": "Заключение",
+        "page": 29
+      },
+      {
+        "text": "Список использованных источников",
+        "page": 32
+      },
+      {
+        "text": "Приложение 1. Извлечение и сопоставление опубликованных результатов",
+        "page": 34
+      },
+      {
+        "text": "Приложение 2. Основания содержательного сопоставления",
+        "page": 36
+      }
+    ],
+    "tables": [
+      {
+        "end": 18,
+        "rows": 6,
+        "start": 18
+      },
+      {
+        "end": 35,
+        "rows": 5,
+        "start": 35
+      },
+      {
+        "end": 36,
+        "rows": 5,
+        "start": 36
+      }
+    ]
+  },
+  "antiplagiarism_v2": {
+    "service": "Plagiat.AI",
+    "date": "2026-11-28",
+    "scope": "introduction, chapters 1 and 2, conclusion",
+    "report": "research/plagiat-ai-v2-report.md",
+    "originality_percent": 92,
+    "plagiarism_percent": 8,
+    "citation_percent": 0,
+    "result_reliability_verified": false,
+    "final_project_criterion_confirmed": false
+  }
+}

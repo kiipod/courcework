@@ -1,0 +1,55 @@
+{
+  "document": "output/coursework-v2.docx",
+  "document_sha256": "32fed8d31e6cd9ebcd7561858ff7ff73088a2eed5acf0ac195b40bd6ea1f549c",
+  "text_file": "research/plagiat-ai-v2-main-text.txt",
+  "text_sha256": "cab6e0b4927129da699b5701d23be38a6a21fcccf979a657988b28d6248bd50a",
+  "characters": 48556,
+  "words_whitespace_split": 5961,
+  "included": [
+    "Введение",
+    "Глава 1. Гендерная идентичность как психологическая проблема",
+    "Глава 2. Содержательный анализ исследований гендерной идентичности",
+    "Заключение"
+  ],
+  "parameters": {
+    "include_headings": true,
+    "include_tables": true,
+    "include_inline_citations": true,
+    "exclude": [
+      "title page",
+      "contents",
+      "abstract",
+      "glossary",
+      "bibliography",
+      "appendices"
+    ]
+  },
+  "request": {
+    "method": "POST",
+    "url": "https://plagiat.ai/check_txt2",
+    "field": "txt_inp",
+    "encoding": "application/x-www-form-urlencoded",
+    "attempts": 1,
+    "started_at_utc": "2026-11-28T12:48:24.390221+00:00",
+    "started_at_moscow": "2026-11-28T15:48:24.390316+03:00"
+  },
+  "response": {
+    "http_status": 200,
+    "content_type": "application/json",
+    "completed_at_utc": "2026-11-28T12:48:25.939541+00:00",
+    "file": "research/plagiat-ai-v2-response.json",
+    "sha256": "442ac618da2d9bf5c368f8a086a5374866692a38a7b45338edd65300263e7dc7",
+    "bytes": 182525
+  },
+  "site_evidence": {
+    "index.html": "d982cff7bdacc3f445aae72b4ed59e504bfa03ab2bfec99710db6c53ef05b3d1",
+    "custom.js": "71556168c81cce017fb9935a1f4671de380956656e911f6952e635094c74df94"
+  },
+  "verification": {
+    "returned_text_equals_submitted_without_tabs": true,
+    "removed_tabs": 12,
+    "truncated": false,
+    "returned_characters": 48544,
+    "server_words": 5988
+  }
+}
